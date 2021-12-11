@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:type="linear"
+        android:startColor="#AEFFCF"
+        android:centerColor="#FBD786"
+        android:endColor="#96F7797D"
+        android:angle="270"
+        />
+
+</shape>-->
+
+<!--
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:type="linear"
+        android:startColor="#C20ABFBC"
+        android:centerColor="#FBD786"
+        android:endColor="#91C471ED"
+        android:angle="270"
+        />
+
+</shape>-->
+
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:type="linear"
+        android:startColor="#6936F480"
+        android:centerColor="#FBD786"
+        android:endColor="#C20ABFBC"
+        android:angle="270"
+        />
+
+</shape>

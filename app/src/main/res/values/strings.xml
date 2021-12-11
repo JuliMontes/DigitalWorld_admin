@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DigitalWorld_admin</string>
+
+    <!-- Strings row_item_order -->
+    <string name="txt_name">Product Name</string>
+    <string name="txt_category">Product Category</string>
+    <string name="txt_quantity">Product Quantity</string>
+    <string name="txt_user">User Name</string>
+
+</resources>

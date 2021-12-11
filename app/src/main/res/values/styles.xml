@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextView" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">20dp</item>
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:color">@color/color3</item>
+    </style>
+
+    <style name="MyEditText" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/campo_redondeado</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:color">@color/color3</item>
+    </style>
+
+    <style name="MyEditTextSignUp" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/campo_redondeado</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+</resources>
